@@ -179,11 +179,6 @@ flutter build apk --release
    - Signed and ready to ship
 
 ---
-
-## WHAT TO TELL YOUR PROFESSOR
-
-"I built PrivacyCheck, an AI ethics advisor using Flutter and Groq API. The app takes privacy dilemmas as input and returns structured analysis: stakeholders, ethical frameworks, risks, and recommended actions. I used prompt engineering to ensure consistent, ethical output. The app is built, tested, and ready for live demo."
-
 ---
 
 ## QUESTIONS?
